@@ -9,7 +9,7 @@
 
 远程版本库
 1.创建SSH key
-	ssh-keygen -t rsa -C "yougensai@icloud.com"
+	ssh-keygen -t rsa -C "gitusername"
 	会在.shh目录下生产两个文件
 	
 2.github与 本地git同步
